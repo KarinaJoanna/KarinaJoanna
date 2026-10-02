@@ -8,7 +8,6 @@
 🌱 I'm constantly learning and exploring new technologies and tools.<br><br>
 🎯 I'm looking to collaborate on meaningful projects where I can learn, contribute, and create real-world impact.
 </p>
-###
 
 <h2 align="left">About me</h2>
 
