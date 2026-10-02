@@ -2,15 +2,19 @@
 
 ###
 
-<h3 align="center">Student at Instituto Politécnico Nacional.</h4>
-
+<p align="left">
+🤖 I'm an Artificial Intelligence Engineer with an interest in building technology-driven solutions.<br><br>
+💡 I'm especially interested in Artificial Intelligence, Machine Learning, Natural Language Processing, and Software Development.<br><br>
+🌱 I'm constantly learning and exploring new technologies and tools.<br><br>
+🎯 I'm looking to collaborate on meaningful projects where I can learn, contribute, and create real-world impact.
+</p>
 ###
 
 <h2 align="left">About me</h2>
 
 ###
 
-<p align="left">🌱 I’m currently a student at Instituto Politécnico Nacional, studying Artificial Intelligence Engineering.<br><br>📚 I'm currently learning more of Unity.<br><br>🎯 I'm looking to collaborate on projects that have a significant impact.</p>
+<p align="left">I'm an Artificial Intelligence Engineer with an interest in building technology-driven solutions.</p>
 
 ###
 
